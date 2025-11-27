@@ -14,6 +14,9 @@ MIT Moral Machine 대규모 데이터를 활용하여 문화권별(동양 vs 서
   - **Data Processing:** Pandas, NumPy (Data Cleaning, Mapping, Min-Max Scaling)
   - **Visualization:** Matplotlib, Plotly Express
 - **개발 환경:** Google Colab, Jupyter Notebook
+- ## 📄 프로젝트 결과물
+* [📊 발표 자료 (PDF)](./presentation.pdf)
+* [📄 최종 보고서 (PDF)](./final_report.pdf)
 
 ---
 
