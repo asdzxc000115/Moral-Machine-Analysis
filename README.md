@@ -1,4 +1,11 @@
 # 🚗 자율주행 AI 윤리적 딜레마 분석 (Moral Machine Analysis)
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</div>
 
 ### "자율주행차의 브레이크가 고장 났을 때, AI는 누구를 살려야 할까?"
 MIT Moral Machine 대규모 데이터를 활용하여 문화권별(동양 vs 서양) 윤리적 판단 기준의 차이를 분석하고, 자율주행 AI의 로컬라이제이션(Localization) 필요성을 제안한 데이터 분석 프로젝트입니다.
@@ -78,8 +85,18 @@ MIT Moral Machine 대규모 데이터를 활용하여 문화권별(동양 vs 서
 ---
 
 ## 📂 폴더 구조
+## 💻 실행 방법 (How to Run)
+본 프로젝트는 **Google Colab** 환경에 최적화되어 있습니다.
 
-```bash
+1. **레포지토리 클론**
+   
+   ```
+   bash
+   git clone [https://github.com/asdzxc000115/Moral-Machine-Analysis.git](https://github.com/asdzxc000115/Moral-Machine-Analysis.git)
+   ```
+
+```
+bash
 Moral-Machine-Analysis
 ├── data         # 원본 및 전처리된 데이터셋 (CSV 파일)
 ├── notebooks    # 데이터 전처리 및 시각화 소스 코드 (.ipynb)
